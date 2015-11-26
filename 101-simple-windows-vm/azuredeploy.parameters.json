@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "dmgstore1"
+      "value": "jacg01store1"
     },
     "adminUsername": {
       "value": "jacg01store1"
